@@ -1,5 +1,3 @@
-**FreeCodeCamp**- Information Security and Quality Assurance
-------
-# Quality Assurance projects
+# FreeCodeCamp - Quality Assurance projects
 ## Personal Library
 
